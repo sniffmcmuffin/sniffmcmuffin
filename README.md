@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hej! 👋
 
-<!--
-**sniffmcmuffin/sniffmcmuffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jag är en **fullstack-utvecklare** i **Borlänge, Sweden** 🇸🇪
 
-Here are some ideas to get you started:
+## 🎯 Söker jobb
+Nybakad utvecklare som letar efter min första roll inom webbutveckling!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Hobbyprojekt
+
+- 🗺️ **NerdMap** - Kartlägger nördkultur och communities (Blazor)
+- 💪 **Muskelbyrån** - Plattform för träningskurser (ASP.NET Core)
+- 🎮 **Space Empires Tracker** - Produktionsspårare för brädspel (Blazor)
+
+## 💻 Tech Stack
+
+**Frontend:**
+- Blazor (Server & WebAssembly)
+- HTML/CSS/JavaScript
+- Bootstrap, SCSS
+
+**Backend:**
+- C# / .NET 8
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+
+**Tools:**
+- Visual Studio 2022
+- Git & GitHub
+- Azure (grundläggande)
+
+## 📍 Location
+
+Based in **Borlänge, Dalarna, Sweden**
+
+## 📫 Kontakt
+
+Öppen för jobb och samarbeten! Hittas även på LinkedIn.
+
+---
+
+*"Hobbyprojekt som inte är i produktion ännu - men snart!"* 😄
