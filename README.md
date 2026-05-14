@@ -53,5 +53,3 @@ Finns i **Borlänge, Dalarna, Sverige**
 Öppen för jobb och samarbeten! Hittas även på LinkedIn.
 
 ---
-
-*"Hobbyprojekt som inte är i produktion ännu - men snart!"* 😄
